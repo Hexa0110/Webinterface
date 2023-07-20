@@ -1,4 +1,4 @@
-export const BASE_PATH = "https://api.stellarverse.fun:4194"
+export const BASE_PATH = "us-01.divahosting.net:4194"
 
 export function get(path: string) {
 
