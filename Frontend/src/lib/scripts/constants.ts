@@ -1,4 +1,4 @@
-export const BASE_PATH = "us-01.divahosting.net:4194"
+export const BASE_PATH = "172.105.115.148:3001"
 
 export function get(path: string) {
 
