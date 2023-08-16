@@ -1,4 +1,4 @@
-export const BASE_PATH = "172.105.115.148:3001"
+export const BASE_PATH = "https://api.stellarverse.fun"
 
 export function get(path: string) {
 
